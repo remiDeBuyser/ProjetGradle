@@ -1,2 +1,5 @@
-rootProject.name = 'gradle'
+rootProject.name = 'ProjetGradle'
+include 'Model'
+include 'View'
+include 'Controller'
 
